@@ -1,3 +1,7 @@
 {
-  "extends": ["next/core-web-vitals", "next/typescript"]
+  "extends": ["next/core-web-vitals", "next/typescript"],
+  "rules": {
+        "quotes": [2, "single", { "avoidEscape": true }],
+        "semi-style": ["error", "last"]
+    }
 }

@@ -1,0 +1,17 @@
+.boton {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.div1 {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+.input{
+ color: black;
+}
